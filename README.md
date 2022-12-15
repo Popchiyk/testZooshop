@@ -1,2 +1,0 @@
-# ZooShop
-Project for University
